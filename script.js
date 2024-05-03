@@ -153,22 +153,6 @@ generateBtn.addEventListener('click' , () => {
     console.log('Start the journy');            // check where the bug
     // remove old pass
     password = " ";
-    
-    // if(uppercaseCheck.checked){
-    //     password += generateUpperCase();
-    // }
-
-    // if(lowercaseCheck.checked){
-    //     password += generateLowerCase();
-    // }
-    
-    // if(numbersCheck.checked){
-    //     password += generateRandomNumber;
-    // }
-
-    // if(symbolsCheck.checked){
-    //     password += generateSymbol();
-    // }
 
     let funcArr = [];
 
