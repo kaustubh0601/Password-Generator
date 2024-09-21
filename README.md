@@ -2,9 +2,6 @@
 
 This is a web-based password generator application that allows users to create secure passwords based on their specific requirements.
 
-# Live Demo
-Check out the live version of the application here: https://kaustubh0601.github.io/Password-Generator/
-
 # Key Features
 
 1. Customizable Password Length
